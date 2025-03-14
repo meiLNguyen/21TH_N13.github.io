@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #333;
+    color: white;
+    padding: 20px;
+}
+
+.about {
+    margin: 20px;
+}
+
+.about img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+.contact {
+    background: #ddd;
+    padding: 20px;
+    margin-top: 20px;
+}
